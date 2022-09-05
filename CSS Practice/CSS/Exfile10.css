@@ -1,0 +1,42 @@
+/*External css property*/
+
+body
+{
+	font-size:20px;
+}
+
+h1
+{
+	text-align:center;
+	background-color:black;
+	color:white;
+}
+
+table,tr,td
+{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+
+table
+{
+	width:78%;
+}
+
+td
+{
+	height:40px;
+	vertical-align:center;
+}
+
+tr,td
+{
+	text-align:left;
+	padding:5px;
+}
+
+tr:hover
+{
+	background-color:gray;
+	color:white;
+}

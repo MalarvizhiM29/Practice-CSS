@@ -1,0 +1,30 @@
+/*External css property*/
+
+ul
+{
+	font-size:25px;
+	list-style-type:none;
+	background-color:#2A94FF;
+	padding:30px;
+	width:180px;
+}
+
+ul li
+{
+	background-color:#C9E5FF;
+	padding:10px;
+	margin:6px;
+	border-radius:40px;
+	text-align:center;
+}
+
+ul li:hover
+{
+	background-color:#F64A6C;
+	color:white;
+}
+
+p
+{
+	font-size:20px;
+}

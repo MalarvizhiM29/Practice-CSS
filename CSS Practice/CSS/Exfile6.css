@@ -1,0 +1,33 @@
+/*External CSS property*/
+
+h1
+{
+	color:white;
+	background-color:black;
+	text-align:center;
+	text-transform:capitalize;
+}
+
+h2
+{
+	color:white;
+	background-color:#188FC5;
+	width:180px;
+	border-radius:20px;
+	padding:2px 4px;
+	text-indent:5px;
+}
+
+span
+{
+	text-decoration:underline;
+}
+
+p
+{
+	text-indent:40px;
+	letter-spacing:1px;
+	line-height:1.2;
+	word-spacing:1px;
+}
+

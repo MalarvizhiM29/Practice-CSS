@@ -1,0 +1,14 @@
+/*CSS External stylesheet*/
+
+h1
+{
+	font:bold 35px "Times new roman",sans-serif;
+}
+
+p
+{
+	font-family:arial,sans-serif;
+	font-style:italic;
+	font-size:20px;
+}
+
